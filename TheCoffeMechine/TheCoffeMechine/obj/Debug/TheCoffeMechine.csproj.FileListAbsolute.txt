@@ -1,0 +1,6 @@
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\obj\Debug\TheCoffeMechine.csprojAssemblyReference.cache
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\bin\Debug\TheCoffeMechine.exe.config
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\bin\Debug\TheCoffeMechine.exe
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\bin\Debug\TheCoffeMechine.pdb
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\obj\Debug\TheCoffeMechine.exe
+D:\Farhan\TheCoffeMechine\TheCoffeMechine\obj\Debug\TheCoffeMechine.pdb
